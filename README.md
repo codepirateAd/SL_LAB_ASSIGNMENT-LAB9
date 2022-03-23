@@ -3,7 +3,6 @@ Name: Anupam Adhikari
 Regno: 202011501
 Sec: A
 
-Note: node_modules folder is empty as the size of the folder is huge so the modules needs to be installed manually
 
 Screenshot:
 
